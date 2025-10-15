@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\breath_first_search.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\breath_first_search.dir/objects.a @CMakeFiles\breath_first_search.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\breath_first_search.dir/objects.a -Wl,--no-whole-archive -o breath_first_search.exe -Wl,--out-implib,libbreath_first_search.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\breath_first_search.dir\linkLibs.rsp

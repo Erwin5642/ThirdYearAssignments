@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CyrusBeck/CMakeFiles/cyrus_beck.dir/cyrus_beck.cpp.obj: dyndep
+

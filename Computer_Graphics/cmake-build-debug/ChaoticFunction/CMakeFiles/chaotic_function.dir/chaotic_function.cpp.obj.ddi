@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "ChaoticFunction\\CMakeFiles\\chaotic_function.dir\\chaotic_function.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

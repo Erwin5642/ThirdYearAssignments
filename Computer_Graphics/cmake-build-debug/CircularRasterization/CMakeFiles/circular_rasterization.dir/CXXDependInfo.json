@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CircularRasterization",
+	"dir-cur-src" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/CircularRasterization",
+	"dir-top-bld" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug",
+	"dir-top-src" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CircularRasterization/CMakeFiles/circular_rasterization.dir"
+}

@@ -1,0 +1,319 @@
+Linux 6.6.87.1-microsoft-standard-WSL2 (Lain5642) 	06/17/2025 	_x86_64_	(12 CPU)
+
+09:43:24 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:25 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     6  servidor
+
+09:43:24 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:25 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:25 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:26 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     6  servidor
+
+09:43:25 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:26 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:26 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:27 AM  1000      5780    8.00   31.00    0.00    0.00   39.00     6  servidor
+
+09:43:26 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:27 AM  1000      5780    240.00      0.00      0.00       0  servidor
+
+09:43:27 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:28 AM  1000      5780   22.00   65.00    0.00    0.00   87.00     5  servidor
+
+09:43:27 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:28 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:28 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:29 AM  1000      5780   21.00   61.00    0.00    0.00   82.00     6  servidor
+
+09:43:28 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:29 AM  1000      5780      0.00    104.00      0.00       0  servidor
+
+09:43:29 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:30 AM  1000      5780   23.00   41.00    0.00    0.00   64.00     0  servidor
+
+09:43:29 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:30 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:30 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:31 AM  1000      5780   36.00   49.00    0.00    0.00   85.00     2  servidor
+
+09:43:30 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:31 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:31 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:32 AM  1000      5780   49.00   58.00    0.00    1.00  107.00     0  servidor
+
+09:43:31 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:32 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:32 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:33 AM  1000      5780   49.00   46.00    0.00    2.00   95.00     2  servidor
+
+09:43:32 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:33 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:33 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:34 AM  1000      5780   72.00   59.00    0.00    1.00  131.00     2  servidor
+
+09:43:33 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:34 AM  1000      5780      0.00     44.00      0.00       0  servidor
+
+09:43:34 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:35 AM  1000      5780   75.00   55.00    0.00    0.00  130.00     2  servidor
+
+09:43:34 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:35 AM  1000      5780      0.00    256.00      0.00       0  servidor
+
+09:43:35 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:36 AM  1000      5780   83.00   63.00    0.00    1.00  146.00     2  servidor
+
+09:43:35 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:36 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:36 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:37 AM  1000      5780   92.00   61.00    0.00    0.00  153.00    11  servidor
+
+09:43:36 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:37 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:37 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:38 AM  1000      5780   79.00   50.00    0.00    4.00  129.00    10  servidor
+
+09:43:37 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:38 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:38 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:39 AM  1000      5780  103.00   61.00    0.00    1.00  164.00     8  servidor
+
+09:43:38 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:39 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:39 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:40 AM  1000      5780  123.00   68.00    0.00    2.00  191.00     7  servidor
+
+09:43:39 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:40 AM  1000      5780      0.00    512.00      0.00       0  servidor
+
+09:43:40 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:41 AM  1000      5780   99.00   51.00    0.00    2.00  150.00    10  servidor
+
+09:43:40 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:41 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:41 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:42 AM  1000      5780  125.00   66.00    0.00    1.00  191.00     1  servidor
+
+09:43:41 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:42 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:42 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:43 AM  1000      5780  134.00   64.00    0.00    2.00  198.00    11  servidor
+
+09:43:42 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:43 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:43 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:44 AM  1000      5780  150.00   63.00    0.00    1.00  213.00     3  servidor
+
+09:43:43 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:44 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:44 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:45 AM  1000      5780  141.00   61.00    0.00    2.00  202.00     0  servidor
+
+09:43:44 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:45 AM  1000      5780      0.00    728.00      0.00       0  servidor
+
+09:43:45 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:46 AM  1000      5780  150.00   56.00    0.00    2.00  206.00     5  servidor
+
+09:43:45 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:46 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:46 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:47 AM  1000      5780  142.00   58.00    0.00    1.00  200.00    11  servidor
+
+09:43:46 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:47 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:47 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:48 AM  1000      5780  160.00   49.00    0.00    1.00  209.00     3  servidor
+
+09:43:47 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:48 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:48 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:49 AM  1000      5780  151.00   52.00    0.00    1.00  203.00     2  servidor
+
+09:43:48 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:49 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:49 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:50 AM  1000      5780  147.00   47.00    0.00    2.00  194.00     3  servidor
+
+09:43:49 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:50 AM  1000      5780      0.00    920.00      0.00       0  servidor
+
+09:43:50 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:51 AM  1000      5780  153.00   46.00    0.00    1.00  199.00     0  servidor
+
+09:43:50 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:51 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:51 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:52 AM  1000      5780  155.00   43.00    0.00    1.00  198.00     8  servidor
+
+09:43:51 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:52 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:52 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:53 AM  1000      5780  160.00   46.00    0.00    2.00  206.00     2  servidor
+
+09:43:52 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:53 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:53 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:54 AM  1000      5780   99.00   28.00    0.00    1.00  127.00     8  servidor
+
+09:43:53 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:54 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:54 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:55 AM  1000      5780  129.00   39.00    0.00    6.00  168.00     7  servidor
+
+09:43:54 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:55 AM  1000      5780      0.00   1072.00      0.00       0  servidor
+
+09:43:55 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:56 AM  1000      5780  151.00   44.00    0.00    1.00  195.00    10  servidor
+
+09:43:55 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:56 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:56 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:57 AM  1000      5780  149.00   37.00    0.00    0.00  186.00     6  servidor
+
+09:43:56 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:57 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:57 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:58 AM  1000      5780  149.00   37.00    0.00    1.00  186.00     6  servidor
+
+09:43:57 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:58 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:58 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:43:59 AM  1000      5780  147.00   32.00    0.00    1.00  179.00     5  servidor
+
+09:43:58 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:43:59 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:43:59 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:00 AM  1000      5780  148.00   39.00    0.00    2.00  187.00     5  servidor
+
+09:43:59 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:00 AM  1000      5780      0.00   1220.00      0.00       0  servidor
+
+09:44:00 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:01 AM  1000      5780  149.00   33.00    0.00    0.00  182.00     7  servidor
+
+09:44:00 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:01 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:01 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:02 AM  1000      5780  158.00   34.00    0.00    1.00  192.00     6  servidor
+
+09:44:01 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:02 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:02 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:03 AM  1000      5780  149.00   38.00    0.00    0.00  187.00     2  servidor
+
+09:44:02 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:03 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:03 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:04 AM  1000      5780  157.00   30.00    0.00    0.00  187.00     0  servidor
+
+09:44:03 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:04 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:04 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:05 AM  1000      5780  154.00   33.00    0.00    1.00  187.00     2  servidor
+
+09:44:04 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:05 AM  1000      5780      0.00   1360.00      0.00       0  servidor
+
+09:44:05 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:06 AM  1000      5780  143.00   29.00    0.00    0.00  172.00     0  servidor
+
+09:44:05 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:06 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:06 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:07 AM  1000      5780  159.00   29.00    0.00    1.00  188.00     7  servidor
+
+09:44:06 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:07 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:07 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:08 AM  1000      5780  155.00   34.00    0.00    1.00  189.00     4  servidor
+
+09:44:07 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:08 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:08 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:09 AM  1000      5780  135.00   28.00    0.00    0.00  163.00     5  servidor
+
+09:44:08 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:09 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:09 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:10 AM  1000      5780  151.00   30.00    0.00    0.00  181.00     6  servidor
+
+09:44:09 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:10 AM  1000      5780      0.00   1484.00      0.00       0  servidor
+
+09:44:10 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:11 AM  1000      5780  144.00   32.00    0.00    0.00  176.00     9  servidor
+
+09:44:10 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:11 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:11 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:12 AM  1000      5780   23.00    4.00    0.00    0.00   27.00     9  servidor
+
+09:44:11 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:12 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:12 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:13 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     9  servidor
+
+09:44:12 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:13 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:13 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:14 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     9  servidor
+
+09:44:13 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:14 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:14 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:15 AM  1000      5780    2.00    0.00    0.00    0.00    2.00     9  servidor
+
+09:44:14 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:15 AM  1000      5780      0.00   1528.00      0.00       0  servidor
+
+09:44:15 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:16 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     9  servidor
+
+09:44:15 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:16 AM  1000      5780      0.00      0.00      0.00       0  servidor
+
+09:44:16 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:44:17 AM  1000      5780    0.00    0.00    0.00    0.00    0.00     9  servidor
+
+09:44:16 AM   UID       PID   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+09:44:17 AM  1000      5780      0.00      0.00      0.00       0  servidor

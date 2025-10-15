@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Prova\\CMakeFiles\\prova.dir\\prova.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

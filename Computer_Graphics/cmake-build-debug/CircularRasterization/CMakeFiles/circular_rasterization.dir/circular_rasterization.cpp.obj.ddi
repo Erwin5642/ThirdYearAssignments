@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CircularRasterization\\CMakeFiles\\circular_rasterization.dir\\circular_rasterization.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

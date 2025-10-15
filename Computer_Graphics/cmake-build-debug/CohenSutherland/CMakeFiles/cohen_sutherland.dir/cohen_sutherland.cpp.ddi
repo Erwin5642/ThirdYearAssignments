@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CohenSutherland/CMakeFiles/cohen_sutherland.dir/cohen_sutherland.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
