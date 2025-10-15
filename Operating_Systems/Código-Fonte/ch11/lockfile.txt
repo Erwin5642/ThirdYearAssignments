@@ -1,0 +1,1 @@
+Esse é o arquivo em que obteremos o lock.

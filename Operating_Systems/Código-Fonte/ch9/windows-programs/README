@@ -1,0 +1,5 @@
+Esses arquivos representam a memória compartilhada com o uso da API Windows.
+Os programas podem ser compilados com o uso de um ambiente de desenvolvimento comum do Windows.
+Normalmente, quando temos um paradigma produtor-consumidor, os dois processos estão sendo executados concorrentemente. Para simular isso, o produtor deve entrar em um loop "while (1) ;" para continuar sendo executado (há outras maneiras de fazê-lo, mas o loop while parece ser a abordagem mais simples).
+Como demonstração, inicie o processo produtor primeiro, seguido pelo consumidor.
+Parece que alguns ambientes requerem que o arquivo temp.txt esteja no mesmo diretório do programa produtor. Incluímos um arquivo vazio simples para esse fim.

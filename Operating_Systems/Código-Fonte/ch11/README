@@ -1,0 +1,5 @@
+Contém o exemplo de um programa Java que mostra como o bloqueio de arquivos é fornecido. Esse exemplo sofreu uma pequena alteração em relação ao texto já que o arquivo que está sendo bloqueado é passado na linha de comando.
+Além disso, o thread produz uma mensagem de saída antes de tentar adquirir o lock e após tê-lo liberado, e quando ele obtém o lock, espera dez segundos antes de liberá-lo.
+Em sistemas que dão suporte ao bloqueio obrigatório (isto é, o Windows) ou aconselhável (o UNIX), a execução de duas cópias desse programa ilustra como a API Java de bloqueio de arquivos funciona.
+Outro teste que pode ser feito é executar o programa Java primeiro para adquirir o lock do arquivo. Em seguida, tente abrir o arquivo bloqueado usando um processador de palavras ou editor de texto padrão. Compare o comportamento diferente em sistemas que usam o bloqueio obrigatório ou o bloqueio aconselhável.
+
