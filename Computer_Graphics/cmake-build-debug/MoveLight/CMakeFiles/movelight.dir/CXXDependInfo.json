@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/MoveLight",
+	"dir-cur-src" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/MoveLight",
+	"dir-top-bld" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug",
+	"dir-top-src" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/MoveLight/CMakeFiles/movelight.dir"
+}

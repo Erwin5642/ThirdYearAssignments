@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Pickline/CMakeFiles/pickline.dir/pickline.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

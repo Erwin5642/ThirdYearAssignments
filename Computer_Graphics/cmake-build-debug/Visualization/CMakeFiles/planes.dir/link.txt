@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\planes.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\planes.dir/objects.a @CMakeFiles\planes.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\planes.dir/objects.a -Wl,--no-whole-archive -o planes.exe -Wl,--out-implib,libplanes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\planes.dir\linkLibs.rsp

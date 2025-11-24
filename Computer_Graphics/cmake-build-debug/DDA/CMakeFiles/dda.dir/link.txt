@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\dda.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\dda.dir/objects.a @CMakeFiles\dda.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\dda.dir/objects.a -Wl,--no-whole-archive -o dda.exe -Wl,--out-implib,libdda.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dda.dir\linkLibs.rsp

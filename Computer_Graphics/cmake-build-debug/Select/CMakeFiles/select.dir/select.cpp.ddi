@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Select/CMakeFiles/select.dir/select.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

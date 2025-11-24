@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build MoveLight/CMakeFiles/movelight.dir/movelight.cpp.obj: dyndep
+
