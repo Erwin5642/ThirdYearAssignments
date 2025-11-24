@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/jvgam/CLionProjects/Third_Year_Projects/Algorithm_Analysis
+# Install script for directory: C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Algorithm_Analysis
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Algorithm_Analysis")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Algorithm_Analysis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Algorithm_Analysis/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

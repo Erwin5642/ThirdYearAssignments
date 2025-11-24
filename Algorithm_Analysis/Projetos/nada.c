@@ -9,10 +9,6 @@ if(condição){
     propaga_sinal_saida_falsa();
 }
 
-
-
-
-
 exibe_saida_verdadeira()
 {
 }

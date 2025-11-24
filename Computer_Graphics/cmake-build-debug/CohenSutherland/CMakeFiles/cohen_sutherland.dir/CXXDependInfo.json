@@ -5,14 +5,14 @@
 	"compiler-simulate-id" : "",
 	"config" : "Debug",
 	"cxx-modules" : {},
-	"dir-cur-bld" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CohenSutherland",
-	"dir-cur-src" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/CohenSutherland",
-	"dir-top-bld" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug",
-	"dir-top-src" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics",
+	"dir-cur-bld" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/CohenSutherland",
+	"dir-cur-src" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/CohenSutherland",
+	"dir-top-bld" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug",
+	"dir-top-src" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
 	"include-dirs" : [],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
-	"module-dir" : "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CohenSutherland/CMakeFiles/cohen_sutherland.dir"
+	"module-dir" : "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/CohenSutherland/CMakeFiles/cohen_sutherland.dir"
 }

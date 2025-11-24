@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/CyrusBeck
+# Install script for directory: C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/CyrusBeck
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

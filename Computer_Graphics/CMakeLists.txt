@@ -19,4 +19,18 @@ add_subdirectory(CircularRasterization/)
 
 add_subdirectory(AnimationFunction/)
 
-add_subdirectory(Prova/)
+add_subdirectory(Visualization/)
+
+add_subdirectory(Light/)
+
+add_subdirectory(MoveLight/)
+
+add_subdirectory(Material/)
+
+add_subdirectory(Select/)
+
+add_subdirectory(Pickline/)
+
+add_subdirectory(Drag/)
+
+add_subdirectory(Trabalhos/T2/)

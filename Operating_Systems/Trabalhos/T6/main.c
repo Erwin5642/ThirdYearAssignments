@@ -294,6 +294,7 @@ void runLRU(FILE *outputFile, int pageSize, int avaiableMemorySize, AddressNode 
     fprintf(outputFile, "\n");
 
     free(frames);
+    free(lastUsed);
 }
 
 void simulatePageReplacementAlgorithms(int pageSize, int avaiableMemorySize, AddressNode *addressList){

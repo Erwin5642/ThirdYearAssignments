@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics
+# Install script for directory: C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,42 +39,77 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CohenSutherland/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/CohenSutherland/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CyrusBeck/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/CyrusBeck/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/ChaoticFunction/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/ChaoticFunction/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/DDA/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/DDA/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/Bresenham/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Bresenham/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/CircularRasterization/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/CircularRasterization/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/AnimationFunction/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/AnimationFunction/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/Prova/cmake_install.cmake")
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Visualization/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Light/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/MoveLight/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Material/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Select/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Pickline/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Drag/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/Trabalhos/T2/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -85,5 +120,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jvgam/CLionProjects/Third_Year_Projects/Computer_Graphics/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jvgam/Yggdrasil/Code/Assignments/Third_Year_Assignments/Computer_Graphics/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
