@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\cyrus_beck.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\cyrus_beck.dir/objects.a @CMakeFiles\cyrus_beck.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cyrus_beck.dir/objects.a -Wl,--no-whole-archive -o cyrus_beck.exe -Wl,--out-implib,libcyrus_beck.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cyrus_beck.dir\linkLibs.rsp

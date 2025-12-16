@@ -1,55 +1,63 @@
-# C/C++
-*.d
-*.slo
-*.lo
+####################################
+# JetBrains IDEs (ALL subprojects)
+####################################
+
+**/.idea/
+**/*.iml
+
+####################################
+# CMake / CLion / Rider
+####################################
+
+**/cmake-build-*/
+**/build/
+**/out/
+
+####################################
+# Compiled binaries
+####################################
+
 *.o
 *.obj
-*.gch
-*.pch
-*.so
-*.dylib
-*.dll
-*.mod
-*.smod
-*.lai
-*.la
-*.a
-*.lib
 *.exe
-*.out
-*.app
-build/
-bin/
-obj/
-*.user
-*.suo
-*.ilk
-*.aps
-*.ncb
-*.pdb
-*.ipch
-*.log
-*.tlog
-*.exp
-*.lib
-*.bsc
-*.sbr
-*.res
-*.pch
-*.pyd
-*.pyc
+*.dll
+*.so
+*.a
 
-# Python
+####################################
+# Python (if any)
+####################################
+
 __pycache__/
 *.pyc
-*.pyd
-*.egg-info/
-.env
-venv/
-env/
-.vscode/
-.idea/
-.DS_Store
+.venv/
 
-.idea/
-cmake-build-*/
+####################################
+# Node (if any)
+####################################
+
+node_modules/
+
+####################################
+# Windows
+####################################
+
+Thumbs.db
+desktop.ini
+
+####################################
+# Logs & temp
+####################################
+
+*.log
+*~
+
+####################################
+# SWIG (generated files)
+####################################
+
+*_wrap.c
+*_wrap.cxx
+*_wrap.cpp
+*.wrap.c
+*.wrap.cpp

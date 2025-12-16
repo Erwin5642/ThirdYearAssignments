@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\cohen_sutherland.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\cohen_sutherland.dir/objects.a @CMakeFiles\cohen_sutherland.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cohen_sutherland.dir/objects.a -Wl,--no-whole-archive -o cohen_sutherland.exe -Wl,--out-implib,libcohen_sutherland.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cohen_sutherland.dir\linkLibs.rsp
